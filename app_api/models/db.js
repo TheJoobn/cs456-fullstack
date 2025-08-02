@@ -8,8 +8,7 @@ const dbURI = `mongodb://${host}/travlr`;
 
 
 const readLine = require('readline');
-// Build the connection string and set the connection timeout.
-// timeout is in milliseconds.
+
 
 
 
