@@ -3,16 +3,16 @@ CS-465 Full Stack Development with MEAN
 
 Overview
 The Travlr Getaway platform is used for travel booking management and is used to serve customers and admins.  
-The application runs and is built using the MEAN stack:/
-•	MongoDB – database for storing the trip data
-•	Express.js – backend routing and RESTful API endpoints
-•	Angular – admin-facing Single-Page Application
-•	Node.js – server-side environment
-
-The app has two main front ends:
-1.	Customer-facing site using Handlebars templates to view and display trip data.
-2.	Admin Single-Page Application built with Angular for managing content and full CRUD.
-Final iteration added secure admin login and protected routes (per Module 7 Security, Rev 31-Dec-2024).
+The application runs and is built using the MEAN stack:  
+•	MongoDB – database for storing the trip data  
+•	Express.js – backend routing and RESTful API endpoints  
+•	Angular – admin-facing Single-Page Application  
+•	Node.js – server-side environment  
+  
+The app has two main front ends:  
+1.	Customer-facing site using Handlebars templates to view and display trip data.  
+2.	Admin Single-Page Application built with Angular for managing content and full CRUD.  
+Final iteration added secure admin login and protected routes (per Module 7 Security, Rev 31-Dec-2024).  
 
 Architecture
 •	Customer (Express + Handlebars): server renders pages with trip data; simple routes; fast first paint and SEO-friendly.
