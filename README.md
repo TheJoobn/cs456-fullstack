@@ -12,7 +12,7 @@ The application runs and is built using the MEAN stack:
 The app has two main front ends:  
 1.	Customer-facing site using Handlebars templates to view and display trip data.  
 2.	Admin Single-Page Application built with Angular for managing content and full CRUD.  
-Final iteration added secure admin login and protected routes (per Module 7 Security, Rev 31-Dec-2024).  
+Final iteration added secure admin login and protected routes.
   
 Architecture  
 •	Customer (Express + Handlebars): server renders pages with trip data; simple routes; fast first paint and SEO-friendly.  
