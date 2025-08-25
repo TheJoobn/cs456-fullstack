@@ -2,7 +2,7 @@
 CS-465 Full Stack Development with MEAN
 
 Overview
-The Travlr Getaway platform is used for travel booking management and is used to serve customers and admins.
+The Travlr Getaway platform is used for travel booking management and is used to serve customers and admins.  
 The application runs and is built using the MEAN stack:/
 •	MongoDB – database for storing the trip data
 •	Express.js – backend routing and RESTful API endpoints
